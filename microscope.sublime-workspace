@@ -1,0 +1,1038 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"a",
+				"a	<a>"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"li",
+				"li"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"selected_items":
+		[
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"format",
+				"Format: Javascript"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"json",
+				"JSON Reindent: reindent file or selection"
+			],
+			[
+				"form",
+				"Format: Javascript"
+			],
+			[
+				"beau",
+				"Javascript Beautify"
+			],
+			[
+				"alignment",
+				"Preferences: Alignment Key Bindings – User"
+			],
+			[
+				"align",
+				"Preferences: Alignment Key Bindings – Default"
+			],
+			[
+				"js b",
+				"Javascript Beautify"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"java",
+				"Javascript Beautify"
+			],
+			[
+				"color",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"theme",
+				"Schemr: Next scheme"
+			],
+			[
+				"col",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"c",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"a",
+				"Preferences: Alignment File Settings – User"
+			],
+			[
+				"re",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"javascri",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"packages",
+				"Preferences: Browse Packages"
+			],
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"inden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"ind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"add rep",
+				"Package Control: Add Repository"
+			],
+			[
+				"lorem",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"Package Control: lit",
+				"Package Control: List Packages"
+			],
+			[
+				"lore",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"dup",
+				"File: Duplicate"
+			],
+			[
+				"du",
+				"File: Duplicate"
+			],
+			[
+				"tidy",
+				"Tidy HTML"
+			],
+			[
+				"prett",
+				"HTMLPrettify: Prettify"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 610.0
+	},
+	"console":
+	{
+		"height": 177.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/petepetrash/Sites/sandbox/microscope/microscope.sublime-project",
+		"/Users/petepetrash/Sites/sandbox/microscope/client/stylesheets/style.css",
+		"/Users/petepetrash/Sites/sandbox/microscope/smart.json",
+		"/Users/petepetrash/Downloads/Incoming/Discover Meteor - Building Real-Time JavaScript Web Apps/Discover Meteor - Building Real-Time JavaScript Web Apps/stylesheets/ebook.css",
+		"/Users/petepetrash/Redbeacon/techshed.co/app/sass/_home.scss",
+		"/Users/petepetrash/Redbeacon/techshed.co/app/sass/_mixins.scss",
+		"/Users/petepetrash/Redbeacon/techshed.co/app/sass/_global.scss",
+		"/Users/petepetrash/Redbeacon/techshed.co/app/sass/_projects.scss",
+		"/Users/petepetrash/Redbeacon/techshed.co/app/pages/home.html",
+		"/Users/petepetrash/Redbeacon/techshed.co/app/pages/contact.html",
+		"/Users/petepetrash/Redbeacon/techshed.co/app/sass/_contact.scss",
+		"/Users/petepetrash/Redbeacon/techshed.co/app/sass/_placeholders.scss",
+		"/Users/petepetrash/Redbeacon/techshed.co/techshedco.sublime-project",
+		"/Users/petepetrash/Redbeacon/techshed.co/app/pages/projects.html",
+		"/Users/petepetrash/Redbeacon/techshed.co/Gruntfile.js",
+		"/Users/petepetrash/Redbeacon/techshed.co/app/sass/_motion.scss",
+		"/Users/petepetrash/Redbeacon/techshed.co/app/index.html",
+		"/Users/petepetrash/Redbeacon/techshed.co/app/sass/_navigation.scss",
+		"/Users/petepetrash/Redbeacon/techshed.co/app/scripts/main.js",
+		"/Users/petepetrash/Redbeacon/techshed.co/dist/styles/main.css",
+		"/Users/petepetrash/Redbeacon/techshed.co/package.json",
+		"/Users/petepetrash/Redbeacon/techshed.co/.jshintrc",
+		"/Users/petepetrash/Redbeacon/techshed.co/fabfile.py",
+		"/Users/petepetrash/Sites/sandbox/meteor-test/README.md",
+		"/Users/petepetrash/Redbeacon/techshed.co/.gitignore",
+		"/Users/petepetrash/Redbeacon/techshed.co/app/sass/_vars.scss",
+		"/Users/petepetrash/Redbeacon/techshed.co/app/sass/_subpages.scss",
+		"/Users/petepetrash/Redbeacon/techshed.co/app/pages/jobs.html",
+		"/Users/petepetrash/Redbeacon/techshed.co/app/sass/_jobs.scss",
+		"/Users/petepetrash/Redbeacon/techshed.co/app/pages/error.html",
+		"/Users/petepetrash/Redbeacon/techshed.co/app/.htaccess",
+		"/Users/petepetrash/Redbeacon/techshed.co/.editorconfig",
+		"/Users/petepetrash/Redbeacon/techshed.co/app/sass/_error.scss",
+		"/Users/petepetrash/Redbeacon/techshed.co/app/sass/_buttons.scss",
+		"/Users/petepetrash/Redbeacon/techshed.co/app/sass/_mediaqueries.scss",
+		"/Users/petepetrash/Redbeacon/techshed.co/app/partials/footer.html",
+		"/Users/petepetrash/Redbeacon/techshed.co/app/images/global/techshed-type.svg",
+		"/Users/petepetrash/Redbeacon/techshed.co/dist/scripts/main.js",
+		"/Users/petepetrash/Downloads/pete.tblk",
+		"/Users/petepetrash/Redbeacon/techshed.co/node_modules/grunt-contrib-imagemin/README.md",
+		"/Users/petepetrash/Redbeacon/techshed.co/.gitattributes",
+		"/Users/petepetrash/Redbeacon/techshed.co/app/sass/main.scss",
+		"/Users/petepetrash/Redbeacon/techshed.co/app/sass/_animation.scss",
+		"/Users/petepetrash/Redbeacon/techshed.co/app/sass/_fonts.scss",
+		"/Users/petepetrash/Redbeacon/techshed.co/app/sass/_helpers.scss",
+		"/Users/petepetrash/Redbeacon/techshed.co/app/sass/_icons.scss",
+		"/Users/petepetrash/Redbeacon/techshed.co/app/pages/404.html",
+		"/Users/petepetrash/Redbeacon/techshed.co/bower.json",
+		"/Users/petepetrash/Redbeacon/techshed.co/.bowerrc",
+		"/Users/petepetrash/Redbeacon/techshed.co/app/sass/_fonts.css",
+		"/Users/petepetrash/Redbeacon/techshed.co/app/styles/fonts.css",
+		"/Users/petepetrash/Downloads/fontello-2bc49fdb/css/techshedco-icons.css",
+		"/Users/petepetrash/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/petepetrash/Library/Application Support/Sublime Text 3/Packages/Alignment/Default (OSX).sublime-keymap",
+		"/Users/petepetrash/Redbeacon/techshed.co/app/fonts/techshedco-icons.svg",
+		"/Users/petepetrash/Redbeacon/techshed.co/app/fonts/techshedco-icons.ttf",
+		"/Users/petepetrash/Redbeacon/techshed.co/readme.md",
+		"/Users/petepetrash/Redbeacon/techshed.co/techshedco.sublime-workspace",
+		"/Users/petepetrash/Sites/sublime projects/techshed.sublime-project",
+		"/Users/petepetrash/Redbeacon/techshed.co/app/fonts/avenir-heavy.svg",
+		"/Users/petepetrash/Redbeacon/techshed.co/app/robots.txt",
+		"/Users/petepetrash/Redbeacon/techshed.co/app/videos/home-video.webm",
+		"/Users/petepetrash/Redbeacon/techshed.co/app/videos/home-video.mp4",
+		"/Users/petepetrash/Redbeacon/techshed.co/app/fonts/Techshed_files/modernizr.js",
+		"/Users/petepetrash/Redbeacon/techshed.co/app/videos/home-video.ogg",
+		"/Users/petepetrash/Redbeacon/techshed.co/app/fonts/avenir-black.svg",
+		"/Users/petepetrash/Redbeacon/techshed.co/dist/.htaccess",
+		"/Users/petepetrash/Redbeacon/techshed.co/app/pages/jobs/index.html",
+		"/Users/petepetrash/Redbeacon/techshed.co/app/pages/projects/index.html",
+		"/Users/petepetrash/Redbeacon/techshed.co/app/pages/home/index.html",
+		"/Users/petepetrash/Redbeacon/techshed.co/app/sass/_story.scss",
+		"/Users/petepetrash/Redbeacon/techshed.co/app/sass/_blog.scss",
+		"/Users/petepetrash/Redbeacon/techshed.co/app/pages/contact/index.html",
+		"/Users/petepetrash/Redbeacon/techshed.co/app/fonts/avenir-book.svg",
+		"/Users/petepetrash/.profile",
+		"/Users/petepetrash/.bash_profile",
+		"/Users/petepetrash/.ssh/config",
+		"/Users/petepetrash/.ssh/id_rsa_redbeacon.pub",
+		"/Users/petepetrash/.ssh/id_rsa_redbeacon",
+		"/Users/petepetrash/Redbeacon/techshed/techshed.co/app/sass/_vars.scss",
+		"/Users/petepetrash/Redbeacon/techshed/techshed.co/app/sass/_home.scss",
+		"/Users/petepetrash/Redbeacon/techshed/techshed.co/app/sass/_global.scss",
+		"/Users/petepetrash/Redbeacon/techshed/techshed.co/app/partials/home.html",
+		"/Users/petepetrash/Redbeacon/techshed/techshed.co/app/partials/nav-primary.html",
+		"/Users/petepetrash/Redbeacon/techshed/techshed.co/app/bower_components/neat/app/assets/stylesheets/grid/_media.scss",
+		"/Users/petepetrash/Redbeacon/techshed/techshed.co/app/sass/_helpers.scss",
+		"/Users/petepetrash/Redbeacon/techshed/techshed.co/.editorconfig",
+		"/Users/petepetrash/Redbeacon/techshed/techshed.co/app/sass/_buttons.scss",
+		"/Users/petepetrash/Redbeacon/techshed/techshed.co/app/sass/_loadspinner.scss",
+		"/Users/petepetrash/Redbeacon/techshed/techshed.co/package.json",
+		"/Users/petepetrash/Redbeacon/techshed/techshed.co/bower.json",
+		"/Users/petepetrash/Redbeacon/techshed/techshed.co/app/scripts/main.js",
+		"/Users/petepetrash/Redbeacon/techshed/techshed.co/app/sass/main.scss",
+		"/Users/petepetrash/Redbeacon/techshed/techshed.co/app/index.html",
+		"/Users/petepetrash/Redbeacon/techshed/techshed.co/app/sass/_jobs.scss",
+		"/Users/petepetrash/Redbeacon/techshed/techshed.co/app/sass/_fonts.scss",
+		"/Users/petepetrash/Redbeacon/techshed/techshed.co/Gruntfile.js",
+		"/Users/petepetrash/Redbeacon/techshed/techshed.co/.jshintrc",
+		"/Users/petepetrash/Redbeacon/techshed/techshed.co/app/.htaccess",
+		"/Users/petepetrash/Redbeacon/techshed/techshed.co/app/partials/foot.html",
+		"/Users/petepetrash/Redbeacon/techshed/techshed.co/app/partials/head.html",
+		"/Users/petepetrash/Redbeacon/techshed/techshed.co/pages/home.html",
+		"/Users/petepetrash/Redbeacon/techshed/techshed.co/app/foot.html",
+		"/Users/petepetrash/Redbeacon/techshed/techshed.co/app/head.html",
+		"/Users/petepetrash/Library/Application Support/Sublime Text 3/Packages/User/Perv Orange (SL) (SL).tmTheme",
+		"/Users/petepetrash/Downloads/Perv Orange (1).tmTheme",
+		"/Users/petepetrash/Library/Application Support/Sublime Text 3/Packages/User/Perv Orange (SL).tmTheme",
+		"/Users/petepetrash/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/petepetrash/Library/Application Support/Sublime Text 3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
+		"/Users/petepetrash/Library/Application Support/Sublime Text 3/Packages/SublimeLinter/Default (OSX).sublime-keymap",
+		"/Users/petepetrash/Library/Application Support/Sublime Text 3/Packages/User/Base File.sublime-settings",
+		"/Users/petepetrash/Library/Application Support/Sublime Text 3/Packages/Alignment/Base File.sublime-settings",
+		"/Users/petepetrash/Library/Application Support/Sublime Text 3/Packages/User/SCSS.sublime-settings",
+		"/Users/petepetrash/Library/Application Support/Sublime Text 3/Packages/Terminal/Base File.sublime-settings",
+		"/Users/petepetrash/Redbeacon/techshed/techshed.co/.gitignore",
+		"/Users/petepetrash/Redbeacon/techshed/techshed.co/dist/styles/e85ee5ea.main.css",
+		"/Users/petepetrash/Redbeacon/techshed/techshed.co/app/sass/global.scss",
+		"/Users/petepetrash/Redbeacon/techshed/techshed.co/app/sass/contact.scss",
+		"/Users/petepetrash/Library/Application Support/Sublime Text 3/Packages/User/JavascriptBeautify.sublime-settings",
+		"/Users/petepetrash/Library/Application Support/Sublime Text 3/Packages/Javascript Beautify/JavascriptBeautify.sublime-settings",
+		"/Users/petepetrash/Redbeacon/techshed/techshed.co/.bowerrc",
+		"/Users/petepetrash/Sites/PeteKP-v3/Gruntfile.js",
+		"/Users/petepetrash/.ssh/redbeacon.pub",
+		"/Users/petepetrash/.ssh/redbeacon",
+		"/Users/petepetrash/Sites/petekp-v3.sublime-project",
+		"/Users/petepetrash/Sites/PeteKP-v3/app/projects/forge/index.html",
+		"/Users/petepetrash/Sites/PeteKP-v3/app/projects/blueplanetnetwork/index.html",
+		"/Users/petepetrash/Sites/PeteKP-v3/app/projects/aristonjacks/index.html"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 91.0,
+		"where_history":
+		[
+			"<project>",
+			"/Users/petepetrash/Sites/PeteKP-V3/",
+			"/Users/petepetrash/Sites/PeteKP-V2/",
+			"/Users/petepetrash/Sites/PeteKP-V2/system/templates/default_site",
+			"<open files>,<open folders>",
+			"<open files>",
+			"/Users/petepetrash/Sites/HiDef SVN/BPN 2.0,/Users/petepetrash/Sites/PeteKP-V2",
+			"/Users/petepetrash/Sites/HiDef SVN/BPN 2.0",
+			"<open files>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"p ",
+			"600px",
+			"body",
+			"quote",
+			"toggleVideoPlaying",
+			"playing",
+			"quote",
+			"vertical-align",
+			"quote",
+			"includes",
+			"wrapper",
+			"--wide",
+			"color",
+			"watch",
+			"server",
+			"livereload",
+			"newer",
+			"includes",
+			"primary",
+			"fittex",
+			"hidden",
+			"$('#video-bg')",
+			"fitText",
+			"video-bg",
+			"dormant",
+			"wide",
+			"break-sm",
+			"purpose",
+			"pullquote",
+			"fittext",
+			"dormant",
+			"is-hidden",
+			"dormant",
+			"is-hidden",
+			"<span class=\"break-sm\"></span>",
+			"--home",
+			"pullquote",
+			"purpose",
+			"hd-logo",
+			"0.2",
+			".2",
+			"pageWindow",
+			"page-window",
+			"span",
+			"footer",
+			"page-footer",
+			"#page-container",
+			"#page-window",
+			"no-scroll",
+			"argin-top: 2.3rem;",
+			"argin-top: 2.3rem; */",
+			"2.3rem",
+			"pullquote",
+			"page",
+			"includes",
+			"livereload",
+			"includes",
+			"min",
+			"removelogging",
+			"svelte",
+			"span",
+			"p",
+			"<span class=\"break-sm\"></span>",
+			"<span class=\"break-sm\">",
+			"\"",
+			"page-header",
+			"no-scroll",
+			"imagemin",
+			"dest",
+			"pageContainer",
+			"404",
+			"is-hidden",
+			"setheaderheight",
+			"();\n",
+			"setHeaderHeight",
+			"home",
+			"waypoints",
+			"'jobs",
+			"console.log('showPage(): ' + page);",
+			"showpage",
+			"show",
+			"pageContainer",
+			"loadpage",
+			"fit",
+			"showpage",
+			"is-transitioning",
+			"pageContainer",
+			"path",
+			"getCurrentPath",
+			"path",
+			"pagefooter",
+			"getPage",
+			"page",
+			"pageContainer",
+			"pageSrc",
+			"getPage",
+			"footer",
+			"  // XX-LARGE 1921px min",
+			"jobscore-jobs",
+			"border-box",
+			"z-index",
+			"scroll-down",
+			"z-index",
+			"--lg",
+			"nav-primary__menu-toggle",
+			"slug-transition",
+			"slowest-transition",
+			"quick-transition",
+			"%quickest-transition",
+			"quick-transition",
+			"midspeed-transition",
+			"%sluggg-transition",
+			"slower-transition",
+			"slowest-transition",
+			"slug-transition",
+			"0",
+			"sans-serif",
+			"footer",
+			"no-selection",
+			"type",
+			"linear-gradient",
+			"hover",
+			"--lg",
+			"--footer",
+			"255",
+			"color",
+			"media",
+			"wrapper"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"hd-logomark",
+			"site-footer",
+			"#pages-container",
+			"#page-container",
+			"slower-transition",
+			"slow-transition",
+			"fast-transition",
+			"no-select",
+			"lg-screen",
+			"md-screen",
+			"nav-primary__menu-toggle",
+			"nav-primary__toggle",
+			"nav-primary__menu--on",
+			"block--img block--wide",
+			"page-header__bg",
+			"page-header__copy",
+			"vertically-align-children",
+			"config.src",
+			"linkList",
+			"linkstream",
+			"</strong>",
+			"<strong>",
+			"@include border(red);",
+			"$red-border",
+			"&red-border",
+			"&"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 218.0
+	},
+	"project": "microscope.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"style",
+				"client/stylesheets/style.css"
+			],
+			[
+				"home",
+				"app/pages/home.html"
+			],
+			[
+				"globa",
+				"app/sass/_global.scss"
+			],
+			[
+				"main",
+				"app/scripts/main.js"
+			],
+			[
+				"place",
+				"app/sass/_placeholders.scss"
+			],
+			[
+				"contact",
+				"app/sass/_contact.scss"
+			],
+			[
+				"project",
+				"app/sass/_projects.scss"
+			],
+			[
+				"cont",
+				"app/sass/_contact.scss"
+			],
+			[
+				"conta",
+				"app/pages/contact.html"
+			],
+			[
+				"grunt",
+				"Gruntfile.js"
+			],
+			[
+				"nav",
+				"app/sass/_navigation.scss"
+			],
+			[
+				"index",
+				"app/index.html"
+			],
+			[
+				"motion",
+				"app/sass/_motion.scss"
+			],
+			[
+				"pack",
+				"package.json"
+			],
+			[
+				"glo",
+				"app/sass/_global.scss"
+			],
+			[
+				"global",
+				"app/sass/_global.scss"
+			],
+			[
+				"hme",
+				"app/sass/_home.scss"
+			],
+			[
+				"var",
+				"app/sass/_vars.scss"
+			],
+			[
+				"jobs",
+				"app/pages/jobs.html"
+			],
+			[
+				"html",
+				"app/pages/error.html"
+			],
+			[
+				"subp",
+				"app/sass/_subpages.scss"
+			],
+			[
+				"sub",
+				"app/sass/_subpages.scss"
+			],
+			[
+				"gl",
+				"app/sass/_global.scss"
+			],
+			[
+				"error",
+				"app/sass/_error.scss"
+			],
+			[
+				"gloa",
+				"app/sass/_global.scss"
+			],
+			[
+				"projects",
+				"app/sass/_projects.scss"
+			],
+			[
+				"mix",
+				"app/sass/_mixins.scss"
+			],
+			[
+				"buttons",
+				"app/sass/_buttons.scss"
+			],
+			[
+				"subpage",
+				"app/sass/_subpages.scss"
+			],
+			[
+				"media",
+				"app/sass/_mediaqueries.scss"
+			],
+			[
+				"gruntf",
+				"Gruntfile.js"
+			],
+			[
+				"mixin",
+				"app/sass/_mixins.scss"
+			],
+			[
+				"glob",
+				"app/sass/_global.scss"
+			],
+			[
+				"grun",
+				"Gruntfile.js"
+			],
+			[
+				"con",
+				"app/pages/contact.html"
+			],
+			[
+				"pro",
+				"app/sass/_projects.scss"
+			],
+			[
+				"contac",
+				"app/pages/contact.html"
+			],
+			[
+				"na",
+				"app/sass/_navigation.scss"
+			],
+			[
+				"git",
+				".gitignore"
+			],
+			[
+				"gru",
+				"Gruntfile.js"
+			],
+			[
+				"anim",
+				"app/index.html"
+			],
+			[
+				"anima",
+				"app/sass/_animation.scss"
+			],
+			[
+				"fonts",
+				"app/sass/_fonts.scss"
+			],
+			[
+				"med",
+				"app/sass/_mediaqueries.scss"
+			],
+			[
+				"404",
+				"app/pages/404.html"
+			],
+			[
+				"n",
+				"app/sass/_navigation.scss"
+			],
+			[
+				"va",
+				"app/sass/_vars.scss"
+			],
+			[
+				"vars",
+				"app/sass/_vars.scss"
+			],
+			[
+				"butt",
+				"app/sass/_buttons.scss"
+			],
+			[
+				"bower",
+				"bower.json"
+			],
+			[
+				"hm",
+				"app/sass/_home.scss"
+			],
+			[
+				"animation",
+				"app/sass/_animation.scss"
+			],
+			[
+				"medi",
+				"app/sass/_mediaqueries.scss"
+			],
+			[
+				"gitig",
+				".gitignore"
+			],
+			[
+				"font",
+				"app/sass/_fonts.scss"
+			],
+			[
+				"icons",
+				"app/sass/_icons.scss"
+			],
+			[
+				"button",
+				"app/sass/_buttons.scss"
+			],
+			[
+				"",
+				"Find Results"
+			],
+			[
+				"navig",
+				"app/sass/_navigation.scss"
+			],
+			[
+				"pla",
+				"app/sass/_placeholders.scss"
+			],
+			[
+				"pl",
+				"app/sass/_placeholders.scss"
+			],
+			[
+				"navi",
+				"app/sass/_navigation.scss"
+			],
+			[
+				"glb",
+				"app/sass/_global.scss"
+			],
+			[
+				"ht",
+				"app/.htaccess"
+			],
+			[
+				"json",
+				"package.json"
+			],
+			[
+				"projec",
+				"app/pages/projects/index.html"
+			],
+			[
+				"proj",
+				"app/sass/_projects.scss"
+			],
+			[
+				"hoe",
+				"app/sass/_home.scss"
+			],
+			[
+				"inde",
+				"app/index.html"
+			],
+			[
+				"job",
+				"app/pages/jobs/index.html"
+			],
+			[
+				"proejcts",
+				"app/sass/_projects.scss"
+			],
+			[
+				"hel",
+				"app/sass/_helpers.scss"
+			],
+			[
+				"btn",
+				"app/sass/_buttons.scss"
+			],
+			[
+				"htacce",
+				"app/.htaccess"
+			],
+			[
+				"proje",
+				"app/pages/projects.html"
+			],
+			[
+				"helper",
+				"app/sass/_helpers.scss"
+			],
+			[
+				"main.",
+				"app/scripts/main.js"
+			],
+			[
+				"home.",
+				"app/sass/_home.scss"
+			],
+			[
+				"help",
+				"app/sass/_helpers.scss"
+			],
+			[
+				".js",
+				".jshintrc"
+			],
+			[
+				"bow",
+				"bower.json"
+			],
+			[
+				"foot",
+				"app/partials/foot.html"
+			],
+			[
+				"head",
+				"app/partials/head.html"
+			],
+			[
+				"project-",
+				"app/projects/project-list.html"
+			],
+			[
+				"footer",
+				"app/footer.html"
+			],
+			[
+				"header",
+				"app/header.html"
+			],
+			[
+				"varia",
+				"app/styles/_variables.scss"
+			],
+			[
+				"variables",
+				"app/styles/_variables.scss"
+			],
+			[
+				"main.scss",
+				"app/styles/main.scss"
+			],
+			[
+				"main.js",
+				"app/scripts/main.js"
+			],
+			[
+				"stats/index",
+				"app/projects/stats/index.html"
+			],
+			[
+				"pete",
+				"petekp.html"
+			],
+			[
+				"embed",
+				"embeds.group/header.html"
+			],
+			[
+				"abou",
+				"about.group/index.html"
+			],
+			[
+				"about",
+				"about.group/index.html"
+			],
+			[
+				"forms",
+				"js/libs/royalslider/dev-js-files/modules/jquery.rs.thumbnails.js"
+			],
+			[
+				"thumb",
+				"stylesheets.group/partials/_thumbnails.scss"
+			],
+			[
+				".scss",
+				"stylesheets.group/site.scss"
+			],
+			[
+				"f",
+				"embeds.group/featured_photo.html"
+			],
+			[
+				"me",
+				"stylesheets.group/partials/_mediaqueries.scss"
+			],
+			[
+				".css",
+				"stylesheets.group/site.css"
+			],
+			[
+				"vari",
+				"stylesheets.group/partials/_variables.scss"
+			],
+			[
+				"photo",
+				"embeds.group/featured_photo.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/Sites/sublime projects/petekpv3.sublime-project"
+			],
+			[
+				"tech",
+				"~/Sites/sublime projects/techshed.sublime-project"
+			],
+			[
+				"pete",
+				"~/Sites/sublime projects/petekpv3.sublime-project"
+			],
+			[
+				"red",
+				"~/Sites/sublime projects/redbeacon.sublime-project"
+			],
+			[
+				"petek",
+				"~/Sites/sublime projects/petekpv3.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 201.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
